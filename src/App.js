@@ -4,7 +4,7 @@ import Index from "./Index";
 import "./index.css";
 
 function render() {
-	ReactDOM.render(<Index />, document.body);
+  ReactDOM.render(<Index />, document.body);
 }
 
 render();

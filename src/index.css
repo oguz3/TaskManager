@@ -1,11 +1,11 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap");
 html {
-	height: 100%;
-	background-color: #f5f7fb;
+  height: 100%;
+  background-color: #f5f7fb;
 }
 body {
-	font-family: "Inter", sans-serif;
-	margin: 0px;
+  font-family: "Inter", sans-serif;
+  margin: 0px;
 }
 h1,
 h2,
@@ -14,15 +14,15 @@ h4,
 h5,
 h6,
 p {
-	margin: 0px;
+  margin: 0px;
 }
 
 .container {
-	max-width: 80%;
-	margin: auto;
-	padding-top: 20px;
+  max-width: 80%;
+  margin: auto;
+  padding-top: 20px;
 }
 .row {
-	display: grid;
-	grid-template-columns: 1fr 1fr 1fr;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
 }
